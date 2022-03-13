@@ -1,1 +1,1 @@
-# 3D-Bounding-Box-Object-Detection
+# 3D Bounding-Box Object Detection
